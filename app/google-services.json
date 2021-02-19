@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "59757636849",
+    "project_id": "todo-ios-w21-7ce99",
+    "storage_bucket": "todo-ios-w21-7ce99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59757636849:android:2ed14f741eeac28e8c4d50",
+        "android_client_info": {
+          "package_name": "com.example.todoandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59757636849-9fj11l8rvm971cpa7nclqt072ijgsom4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhmiYMY4VkO0OlF97gKSV3Nvas4k24BLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59757636849-9fj11l8rvm971cpa7nclqt072ijgsom4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59757636849-m8p8r05mmbiip4hfa2d8b8vb2r71ejfg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Surriya.TODOFirestore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
